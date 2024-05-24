@@ -162,3 +162,4 @@ C:\Users\lasse\RiderProjects\MartenDB\MartenDB\obj\Debug\net8.0\refint\MartenDB.
 C:\Users\lasse\RiderProjects\MartenDB\MartenDB\obj\Debug\net8.0\MartenDB.pdb
 C:\Users\lasse\RiderProjects\MartenDB\MartenDB\obj\Debug\net8.0\MartenDB.genruntimeconfig.cache
 C:\Users\lasse\RiderProjects\MartenDB\MartenDB\obj\Debug\net8.0\ref\MartenDB.dll
+C:\Users\lasse\RiderProjects\MartenDB\MartenDB\obj\Debug\net8.0\MartenDB.sourcelink.json
