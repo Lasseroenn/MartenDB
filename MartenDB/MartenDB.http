@@ -1,0 +1,6 @@
+@MartenDB_HostAddress = http://localhost:5064
+
+GET {{MartenDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
